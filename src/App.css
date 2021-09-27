@@ -1,4 +1,4 @@
-.App {
+/* .App {
   text-align: center;
 }
 
@@ -35,4 +35,22 @@
   to {
     transform: rotate(360deg);
   }
+} */
+.dropzone {
+  text-align: center;
+  padding: 30px;
+  border: 3px dashed #eeeeee;
+  background-color: #fafafa;
+  color: #bdbdbd;
+  cursor: pointer;
+  margin-bottom: 20px;
+}
+
+.selected-file-wrapper {
+  text-align: center;
+}
+
+.selected-file {
+  color: #000;
+  font-weight: bold;
 }
